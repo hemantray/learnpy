@@ -4,7 +4,7 @@ import pandas as pd
 # Some other example server values are
 # server = 'localhost\sqlexpress' # for a named instance
 # server = 'myserver,port' # to specify an alternate port
-server = 'tcp:LHTU05CG84218GH' 
+server = 'tcp:localhost' 
 database = 'mydb' 
 username = 'pyuser' 
 password = 'pyuser123' 
